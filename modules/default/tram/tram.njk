@@ -1,0 +1,9 @@
+<div>
+  <ul>
+  {% for tram in {{ upcomingTrams }} %}
+    <li>{{ tram }}</li>
+  {% else %}
+    <li>This would display if the 'item' collection were empty</li>
+  {% endfor %}
+  </ul>
+</div>
