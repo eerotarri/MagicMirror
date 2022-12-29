@@ -9,7 +9,7 @@ This module displays the expected arrival times for trams at a specific stop poi
 - Provides a fade-in/fade-out animation when updating the arrival times
 - Allows you to customize which tram numbers to track
 
-# THIS WILL BE REPLACED BY A DEMO ONCE NYSSE API IS BACK UP AND RUNNING AGAIN :)
+![Demo picture of tram schedule](/modules/default/tram/image.png)
 
 ## Usage
 
